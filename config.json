@@ -1,0 +1,10 @@
+{
+        "BDD": {
+        "note": "si tu as besoin d'aide mentionne moi (224)",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "user": "root",
+        "database": "nom de ta database",
+        "charset": "utf8mb4"
+    }
+}   
